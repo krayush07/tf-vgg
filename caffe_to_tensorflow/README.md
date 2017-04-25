@@ -1,6 +1,8 @@
 # caffe-to-tensorflow
 This folder contains steps to migrate caffe model to tensorflow standards.
 
+<br></br>
+
 <b>How to extract weights and architecture from caffe model</b>
 
 * Download [binary](http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_16_layers.caffemodel) of caffe model which contain weights learned during training.
@@ -10,6 +12,7 @@ This folder contains steps to migrate caffe model to tensorflow standards.
 * One might experience some blockers while running the script. Please see next section that can be followed to successfully run the script.
 * After running the above command, we obtain two files: **`data-output`** and **`code-output`** which provides the weights in numpy native format and network configuration (architecture) respectively.
 
+<br></br>
 
 <b> Steps to run end script to extract weights and architecture from caffe model</b>
 

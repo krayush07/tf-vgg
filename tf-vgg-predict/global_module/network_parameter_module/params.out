@@ -1,0 +1,16 @@
+conv5_1	weights	biases
+fc6	weights	biases
+conv5_3	weights	biases
+fc7	weights	biases
+fc8	weights	biases
+conv5_2	weights	biases
+conv4_1	weights	biases
+conv4_2	weights	biases
+conv4_3	weights	biases
+conv3_3	weights	biases
+conv3_2	weights	biases
+conv3_1	weights	biases
+conv1_1	weights	biases
+conv1_2	weights	biases
+conv2_2	weights	biases
+conv2_1	weights	biases
